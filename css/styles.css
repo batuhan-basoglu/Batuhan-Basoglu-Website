@@ -800,6 +800,10 @@ ul {
     margin-left: 11%;
     margin-right: 11%;
   }
+
+  .lb-data .lb-details{
+    display: none;
+  }
 }
 
 
