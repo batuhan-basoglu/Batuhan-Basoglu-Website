@@ -2,7 +2,7 @@
 
 A read me file for my own personal website. A website designed using HTML, CSS and Javascript.
 
-https://arctichawk1.codeberg.page/Arctichawk1-Website/
+https://arctichawk1.github.io/Arctichawk1-Website/
 
 # Author
 
