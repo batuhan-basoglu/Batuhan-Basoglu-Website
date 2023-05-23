@@ -358,7 +358,7 @@ ul {
   letter-spacing: 1px;
   margin-top: 0px;
   margin-bottom: 10px;
-  border-bottom: 2px solid #fff;
+  border-bottom: 2px solid rgb(53, 57, 59);
 }
 
 .home-content .left-text h4 em {
