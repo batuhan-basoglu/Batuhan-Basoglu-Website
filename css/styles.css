@@ -684,7 +684,7 @@ ul {
   }
 
   .fa-ul>li {
-    margin-left: -11%;
+    margin-left: -2%;
   }
 
   #links .primary-button {
@@ -1297,8 +1297,7 @@ body.lb-disable-scrolling {
 }
 
 #links .fa-ul{
-  margin-left: 33%;
-  text-align: start;
+  margin-left: 0;
 }
 
 .slider {
