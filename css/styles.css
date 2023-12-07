@@ -412,6 +412,10 @@ ul {
   margin-top: 60px;
 }
 
+#links .about-content .about-box-text {
+  text-align: center;
+}
+
 .about-content .about-box-text h4 {
   display: inline-block;
   padding-bottom: 5px;
@@ -680,7 +684,7 @@ ul {
   }
 
   .fa-ul>li {
-    margin-left: -25%;
+    margin-left: -2%;
   }
 
   #links .primary-button {
@@ -709,7 +713,7 @@ ul {
   .about-content .about-box-text {
     background-color: rgb(24, 26, 27);
     padding: 30px;
-    margin-top: -30px;
+    margin-top: -200px;
     margin-left: 15px;
     margin-right: 15px;
   }
@@ -1292,6 +1296,10 @@ body.lb-disable-scrolling {
   font-size: 20px;
 }
 
+#links .fa-ul{
+  margin-left: 0;
+}
+
 .slider {
   width: 100%;
   max-width: 800px;
@@ -1368,7 +1376,7 @@ body.lb-disable-scrolling {
 
 @media (min-width: 768px) {
   #links .primary-button {
-    padding: 25px 0 0 50px;
+    padding: 25px 0 0 0;
   }
 
   #education .projects-content .text-content {
