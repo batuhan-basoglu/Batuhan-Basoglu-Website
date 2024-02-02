@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: rgb(200, 195, 188);
+  margin: -20px 0
 }
 
 p {
