@@ -58,6 +58,10 @@ ul {
   letter-spacing: 1px;
 }
 
+#links .heading h4 {
+  margin-top: -30px;
+}
+
 .nav {
   position: fixed;
   z-index: 1;
@@ -395,7 +399,7 @@ ul {
 }
 
 .about-content .heading {
-  padding-top: 40%;
+  padding-top: 15%;
 }
 
 .about-box-content {
@@ -417,7 +421,7 @@ ul {
 
 #links .about-content .about-box-text {
   text-align: center;
-  margin-top: -30px;
+  margin-top: -35px;
 }
 
 .about-content .about-box-text h4 {
@@ -464,7 +468,7 @@ ul {
 }
 
 .projects-content .heading {
-  padding-top: 30%;
+  padding-top: 15%;
 }
 
 .project-item {
@@ -681,6 +685,7 @@ ul {
   .about-content .heading {
     padding-top: 10%;
   }
+  
 
   .about-box-content {
     margin-left: -100px;
