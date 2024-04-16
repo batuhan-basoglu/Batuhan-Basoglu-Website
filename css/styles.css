@@ -421,7 +421,7 @@ ul {
 
 #links .about-content .about-box-text {
   text-align: center;
-  margin-top: 20px;
+  margin-top: -33px;
 }
 
 .about-content .about-box-text h4 {
@@ -728,7 +728,7 @@ ul {
   }
 
   #links .about-content .about-box-text {
-    margin-top: -225px;
+    margin-top: -277px;
   }
 
   .projects-content {
