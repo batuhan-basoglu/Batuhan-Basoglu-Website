@@ -1466,3 +1466,17 @@ li {
 .dropdown:hover .dropbtn { 
   background-color: #4d627e; 
 } 
+
+.fa-custom{
+  display:inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.2em;
+  vertical-align: -0.125em;
+  background-color: #bfbfbf;
+}
+
+.matrix-icon{
+  -webkit-mask: url("https://www.vectorlogo.zone/logos/matrix/matrix-icon.svg") no-repeat center / contain;
+  mask: url("https://www.vectorlogo.zone/logos/matrix/matrix-icon.svg") no-repeat center / contain;
+}
